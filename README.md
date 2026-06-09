@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rohan Kurdekar
 
-<!--
-**RohanK2573/RohanK2573** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on Java, Spring Boot, distributed systems, and AI-powered backend applications.
 
-Here are some ideas to get you started:
+Currently working on:
+- Backend systems with Java, Spring Boot, REST APIs, Oracle, RabbitMQ
+- RAG applications using Qdrant, Redis, BullMQ, and LLMs
+- Scalable SaaS products with authentication, billing, and async workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### PDF Scanner AI
+RAG-based document intelligence platform with async ingestion, vector search, and multi-tenant retrieval.
+
+Tech: Next.js, Express.js, BullMQ, Redis, Qdrant, PostgreSQL, AWS EC2, Docker
+
+### Foresight AI
+AI-powered SaaS platform focused on structured project generation, cost control, and scalable backend workflows.
+
+Tech: Spring Boot / Node.js, PostgreSQL, LLM APIs, Auth, Payments
+
+## Tech Stack
+Java | Spring Boot | REST APIs | PostgreSQL | Oracle | RabbitMQ | Redis | Docker | AWS | Qdrant | LLMs
