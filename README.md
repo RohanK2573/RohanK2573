@@ -3,6 +3,7 @@
 [![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RohanK2573)]
 
 ![Metrics](https://metrics.lecoq.io/RohanK2573)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RohanK2573&theme=github_dark)
 
 # Hi, I'm Rohan Kurdekar 👋
 
