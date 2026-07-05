@@ -1,4 +1,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=RohanK2573)](https://git.io/streak-stats)
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohanK2573&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanK2573&layout=compact)
+[![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RohanK2573)]
 
 # Hi, I'm Rohan Kurdekar 👋
 
