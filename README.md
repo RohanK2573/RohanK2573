@@ -1,50 +1,91 @@
+<div align="center">
+
+# Hi 👋 I'm Rohan Kurdekar
+
+### Software Engineer | Java • Spring Boot • Distributed Systems • AI Systems
+
+Building scalable backend systems and AI-powered developer tools.
+
+[LinkedIn](YOUR_LINKEDIN) • [Portfolio](YOUR_PORTFOLIO) • [Resume](YOUR_RESUME)
+
+</div>
+
+
+## 👨‍💻 About Me
+
+- 💼 Software Engineer at Société Générale
+- ☕ Backend Engineer specializing in Java & Spring Boot
+- 🤖 Building AI SaaS applications with LLMs, RAG & Agentic Workflows
+- 📚 Passionate about Distributed Systems, System Design and Backend Architecture
+- 🌱 Always learning and building
+
+## 🚀 Featured Projects
+
+### 🚀 CommitCast *(Private Repository)*
+
+AI platform that transforms GitHub repositories into high-quality content using LLMs.
+
+**Tech**
+Next.js • PostgreSQL • Redis • BullMQ • Gemini • GitHub API
+
+---
+
+### 📄 PDF Scanner AI
+
+RAG platform for intelligent document search.
+
+**Tech**
+Next.js • Express • Qdrant • Redis • BullMQ • Docker
+
+---
+
+### 📚 NeetCode Java
+
+Java implementations of popular interview problems with clean explanations.
+
+## 🛠 Tech Stack
+
+**Languages**
+
+Java • Python • JavaScript • TypeScript
+
+**Backend**
+
+Spring Boot • Node.js • Express
+
+**Frontend**
+
+React • Next.js • Tailwind CSS
+
+**Databases**
+
+PostgreSQL • Oracle • MongoDB • Qdrant
+
+**Infrastructure**
+
+Docker • AWS • Redis • RabbitMQ • BullMQ
+
+**AI**
+
+Gemini • RAG • Vector Search • LangChain
+
+
+## 📈 GitHub Activity
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=RohanK2573)](https://git.io/streak-stats)
 
-[![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RohanK2573)]
-
-![Metrics](https://metrics.lecoq.io/RohanK2573)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RohanK2573&theme=github_dark)
 
-# Hi, I'm Rohan Kurdekar 👋
+## 🌱 Currently Exploring
 
-Software Engineer focused on **Java, Spring Boot, distributed systems, and AI-powered backend applications**.
+- Distributed Systems
+- System Design
+- Kubernetes
+- AI Infrastructure
+- Agentic Workflows
 
-I enjoy building reliable backend systems, scalable SaaS products, and AI workflows that combine APIs, queues, databases, and LLMs.
+- ## 📫 Connect
 
-## 🚀 What I’m working on
-
-- Backend systems with Java, Spring Boot, REST APIs, Oracle, RabbitMQ
-- RAG applications using Qdrant, Redis, BullMQ, PostgreSQL, and LLMs
-- Scalable SaaS products with authentication, billing, async jobs, and observability
-- DSA and system design preparation for strong backend/SDE roles
-
-## 🧩 Featured Projects
-
-### PDF Scanner AI
-RAG-based document intelligence platform with async ingestion, vector search, and multi-tenant retrieval.
-
-**Tech:** Next.js, Express.js, BullMQ, Redis, Qdrant, PostgreSQL, AWS EC2, Docker
-
-### Foresight AI / CommitCast
-AI-powered SaaS platform for structured project generation, cost control, and scalable backend workflows.
-
-**Tech:** Next.js, Spring Boot / Node.js, PostgreSQL, LLM APIs, Auth, Payments
-
-### NeetCode Submissions
-Pattern-based Java DSA solutions for interview preparation.
-
-**Focus:** Arrays, Trees, Graphs, DP, Sliding Window, Binary Search
-
-## 🛠️ Tech Stack
-
-**Backend:** Java, Spring Boot, REST APIs, Node.js, Express.js  
-**Databases:** PostgreSQL, Oracle, MongoDB, Qdrant  
-**Async & Infra:** Redis, BullMQ, RabbitMQ, Docker, AWS, Vercel  
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-**AI/LLM:** RAG, Vector Search, Gemini, LangChain basics  
-
-## 📫 Connect with me
-
-- LinkedIn: add your LinkedIn link
-- Portfolio: add your portfolio link
-- GitHub: https://github.com/RohanK2573
+- 💼 LinkedIn
+- 🌐 Portfolio
+- 📧 Email
